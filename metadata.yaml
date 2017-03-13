@@ -1,5 +1,8 @@
 _repo: The-Lady-of-the-Shroud_3095
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stoker, Bram
@@ -13,6 +16,8 @@ description: The Lady of the Shroud is another vampire story from the man who co
   the term "undead." A wealthy heir falls in love with a beautiful woman, though it
   is unclear whether she is a vampire or not. The story contains Stoker's classic
   elements, combined with more action-packed scenes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3095#The-Lady-of-the-Shroud
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
